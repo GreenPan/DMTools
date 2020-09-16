@@ -1,0 +1,34 @@
+{
+  "name": "dnd5e_DMTools",
+  "title": "DND5E城主工具包",
+  "description": "目前集成了物品随机表",
+  "version": "0.0.1",
+  "author": "classpack社区",
+  "systems": ["dnd5e"],
+  "scripts": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "随机物品",
+      "entity": "RollTable",
+      "name": "item-roll",
+      "path": "packs/item-roll.db",
+      "system": "dnd5e"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "dnd5e_classpack",
+      "manifest": "https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json"
+    },
+    {
+      "name": "bubblerolls",
+      "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-bubblerolls/-/raw/master/module.json"
+    }
+  ],
+  "url": "https://github.com/GreenPan/DMTools",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.6.5",
+  "manifest": "https://github.com/GreenPan/DMTools",
+  "download": "https://github.com/GreenPan/DMTools"
+}
