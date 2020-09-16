@@ -29,6 +29,6 @@
   "url": "https://github.com/GreenPan/DMTools",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.6.5",
-  "manifest": "https://github.com/GreenPan/DMTools",
-  "download": "https://github.com/GreenPan/DMTools"
+  "manifest": "https://github.com/GreenPan/DMTools/raw/master/dnd5e_DMTools.zip",
+  "download": "https://github.com/GreenPan/DMTools/raw/master/dnd5e_DMTools.zip"
 }
