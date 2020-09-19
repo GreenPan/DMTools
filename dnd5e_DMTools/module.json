@@ -23,7 +23,7 @@
     },
     {
       "name": "better-rolltables",
-      "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-bubblerolls/-/raw/master/module.json"
+      "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/v1.5.1/module.json"
     }
   ],
   "url": "https://github.com/GreenPan/DMTools",

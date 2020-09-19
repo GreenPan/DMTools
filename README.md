@@ -8,7 +8,7 @@ DND5E城主工具包，实现了以下功能：
 |#|名称|git连接|json链接
 |---|----|-----|-----|
 |1|dnd5e_classpack|https://github.com/HJSmile/classpack|[下载](https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json "右键复制链接")|
-|2|better-rolltables|https://gitlab.com/mesfoliesludiques/foundryvtt-bubblerolls|[下载](https://gitlab.com/mesfoliesludiques/foundryvtt-bubblerolls/-/raw/master/module.json "右键复制链接")|
+|2|better-rolltables|https://github.com/ultrakorne/better-rolltables|[下载](https://raw.githubusercontent.com/ultrakorne/better-rolltables/v1.5.1/module.json "右键复制链接")|
 
 
 ### 使用方法：  
