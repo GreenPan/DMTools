@@ -22,13 +22,13 @@
       "manifest": "https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json"
     },
     {
-      "name": "bubblerolls",
+      "name": "better-rolltables",
       "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-bubblerolls/-/raw/master/module.json"
     }
   ],
   "url": "https://github.com/GreenPan/DMTools",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.6.5",
-  "manifest": "https://github.com/GreenPan/DMTools/raw/master/dnd5e_DMTools.zip",
+  "manifest": "https://raw.githubusercontent.com/GreenPan/DMTools/master/dnd5e_DMTools/module.json",
   "download": "https://github.com/GreenPan/DMTools/raw/master/dnd5e_DMTools.zip"
 }
